@@ -1,0 +1,6 @@
+CustomerID,Gender,Age,Tenure,Product,Region,MonthlyCharges,TotalCharges,Churn
+1001,Female,25,12,Internet,North,70.5,840.0,No
+1002,Male,45,24,Phone,South,55.2,1324.8,Yes
+1003,Female,35,8,Internet,North,80.3,642.4,Yes
+1004,Male,50,36,Both,East,99.9,3596.4,No
+1005,Female,29,18,Phone,West,65.4,1177.2,No
